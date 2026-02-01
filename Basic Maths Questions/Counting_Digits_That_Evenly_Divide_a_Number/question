@@ -1,0 +1,16 @@
+You are given an interger N. 
+Your task is to count how many of it's digits can divide N completely without any remainder.
+
+Example: 
+input:
+    N = 12 
+output:
+    2
+
+Explanation:
+    Boht 1 and 2 can evenly divide 12.
+
+Your Task :
+    -> Implement the function evenlyDivide(), which takes a integer N as it's function arguments.
+    -> The function shoukd calculate and return the count of digits in N that evenly divide N.
+

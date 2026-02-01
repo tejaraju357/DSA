@@ -1,0 +1,18 @@
+You are given an interger N.
+Your task is to calculate and return the number of digits of the given interger N.
+
+Example 1 :
+Input : 
+    N = 123 
+Output :
+    3 
+
+Explanation :
+    The number 123 has 3 digits.
+
+Your Task:
+    Your task is to implement the function countDigits() function that takes the interger N 
+    as it's argument and returns the number of digits in N.
+
+    
+

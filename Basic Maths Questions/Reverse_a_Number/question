@@ -1,0 +1,11 @@
+You are given an integer N.
+Your task is to reverse the given number, ensuring that the reversed number has no leading zeroes and return it.
+
+Example :
+Input :
+    122
+Output :
+    221
+
+explanation:
+    when you reverse the digits of the number 122, it become 221.

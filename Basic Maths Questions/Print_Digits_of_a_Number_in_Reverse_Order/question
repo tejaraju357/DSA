@@ -1,0 +1,14 @@
+Your given an interger N.
+Your task is to print the digits of the given integer N in reverse order.
+
+Example :
+Input :
+    N = 123
+Output : 
+    3
+    2
+    1
+
+Explanation:
+    Given number is 123 and it's digits in reverse order are 3 , 2, 1..
+    
